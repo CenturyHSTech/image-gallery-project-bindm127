@@ -1,0 +1,34 @@
+body {
+    color: #474443;
+    background-color: #DEDEDC;
+    font-family: "Quicksand", serif;
+    font-size: 130%;
+}
+header {
+    background-image: url("images/header_image.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 1200px;
+    height: 400px;
+    padding: 2em;
+}
+h1, h2, h3 {
+    font-family: "Oswald", serif;
+    font-size: 450%;
+    color:#474443
+}
+a:link {
+    color: #700000
+}
+a:visited {
+    color: #7A0000
+}
+a:hover {
+    color: #021e9c
+}
+figure {
+    border: 15px solid #f6c491;
+    width: 400px;
+    background-color: #f6c491;
+    color: #3C3A39;
+}
