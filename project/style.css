@@ -27,8 +27,16 @@ a:hover {
     color: #021e9c
 }
 figure {
-    border: 15px solid #f6c491;
+    border: 10px groove #312213;
     width: 400px;
     background-color: #f6c491;
     color: #3C3A39;
+    margin: 20px;
+    padding: 5px;
+    padding-bottom: 10px;
+}
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
